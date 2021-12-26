@@ -5,5 +5,8 @@ Hello, welcome to Docker sessions also GIT sessions.
 We learned about creating docker images, also remove docker images.
 We learned to create docker containers and to removes the docker containers.
 We created an image with the name of mirzazam/withgit and uploaded on dokcer hub.
+
+We need to learn the tags commands, how it should be done and how to add it.
+This is all important in interview perspective.
 </body>
 </html>
