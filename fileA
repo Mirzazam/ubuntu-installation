@@ -1,0 +1,9 @@
+<html>
+<tittle> FOR GIT>tittle>
+<body>
+Hello, welcome to Docker sessions also GIT sessions.
+We learned about creating docker images, also remove docker images.
+We learned to create docker containers and to removes the docker containers.
+We created an image with the name of mirzazam/withgit and uploaded on dokcer hub.
+</body>
+</html>
