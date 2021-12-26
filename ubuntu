@@ -1,0 +1,3 @@
+yum install ubuntu -y
+get-apt install apache2
+
